@@ -1,0 +1,11 @@
+2024-11-23 18:23:15.215 [main] INFO  com.cucumber.step_def.Common_Step_def - logger is start
+2024-11-23 18:23:15.221 [main] INFO  com.cucumber.step_def.Common_Step_def - instantiate comman_utils file object
+2024-11-23 18:23:15.224 [main] INFO  com.cucumber.step_def.Common_Step_def - the loadproperty file is load
+2024-11-23 18:23:15.226 [main] INFO  com.cucumber.step_def.Common_Step_def - loaded propoerty and check driver is null or not
+2024-11-23 18:23:15.230 [main] INFO  com.cucumber.step_def.Common_Step_def - inside the if loop so driver is now not null
+2024-11-23 18:23:15.982 [main] INFO  com.cucumber.Drivermanager.DriverManager - start chrome
+2024-11-23 18:23:22.483 [main] INFO  com.cucumber.step_def.verify_ceo_name -  user successfully logged in and is on home page
+2024-11-23 18:23:23.621 [main] INFO  com.cucumber.step_def.verify_ceo_name - clicked directory and moved to page
+2024-11-23 18:23:24.360 [main] INFO  com.cucumber.step_def.verify_ceo_name - selected ceo as option
+2024-11-23 18:23:24.435 [main] INFO  com.cucumber.step_def.verify_ceo_name - clicked search button
+2024-11-23 18:23:24.461 [main] INFO  com.cucumber.step_def.verify_ceo_name - no records found
